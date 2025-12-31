@@ -68,7 +68,7 @@
            {
             "group": "MCP Dev examples",
              "openapi": {
-        "source": "/api-reference/mcp_api_dev/openapi.yaml",
+        "source": "/api-reference/mcp_api_dev/openapi.json",
         "directory": "api-reference/mcp_api_dev"
       }
           }
